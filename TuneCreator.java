@@ -12,6 +12,7 @@ public class TuneCreator
 
     public void CreateAndPlay(){
         tune = new SimpleTune();
+        tune.setInstrument(12);
         tune.addNote("C", 7);
         tune.addNote("A", 10);
         tune.addNote("C#", 5);

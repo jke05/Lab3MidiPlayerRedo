@@ -1,10 +1,9 @@
-Project: midi-player
-Authors: David Barnes and Michael Kölling
+Part III: Midi Player Project
 
-This project is part of the material for the book
+41. Calling showTune() method shows the name of the tune and its duration
+    You can play the tune by calling the playTune() method on the MidiPlayer by
+    simply typing in the name of the tune.
+    
+43. yes
 
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-
-It is discussed in chapter 3.
+45. getInstrument and playTrack
